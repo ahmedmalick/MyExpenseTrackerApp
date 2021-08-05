@@ -1,6 +1,6 @@
 # Expense Tracker App
  
-[live Site](http://a-expense-tracker-app.surge.sh/)
+[live Site](https://a-expense-tracker-app.netlify.app/)
 
 ![Expense Tracker App](/public/expensetracker.png)
 
